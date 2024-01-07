@@ -1,0 +1,2 @@
+﻿//Read, write data on text https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/csharp/language-compilers/read-write-text-file
+// Use functions folder, try to use library as a practise, and access modifiers
