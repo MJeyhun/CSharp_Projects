@@ -1,0 +1,17 @@
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\ContactApp.csproj.AssemblyReference.cache
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\ContactApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\ContactApp.AssemblyInfoInputs.cache
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\ContactApp.AssemblyInfo.cs
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\ContactApp.csproj.CoreCompileInputs.cache
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\bin\Debug\net6.0\ContactApp.exe
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\bin\Debug\net6.0\ContactApp.deps.json
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\bin\Debug\net6.0\ContactApp.runtimeconfig.json
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\bin\Debug\net6.0\ContactApp.dll
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\bin\Debug\net6.0\ContactApp.pdb
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\ContactApp.csproj.CopyComplete
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\ContactApp.dll
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\refint\ContactApp.dll
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\ContactApp.pdb
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\ContactApp.genruntimeconfig.cache
+E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\obj\Debug\net6.0\ref\ContactApp.dll

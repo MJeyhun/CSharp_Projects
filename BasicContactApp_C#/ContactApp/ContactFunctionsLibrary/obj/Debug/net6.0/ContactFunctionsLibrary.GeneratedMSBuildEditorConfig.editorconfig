@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = ContactApp
-build_property.ProjectDir = E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactApp\
+build_property.RootNamespace = ContactFunctionsLibrary
+build_property.ProjectDir = E:\CSharpProjects\BasicContactApp_C#\ContactApp\ContactFunctionsLibrary\

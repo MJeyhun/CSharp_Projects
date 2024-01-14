@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CSharpProjects\\BasicContactApp_C#\\ContactApp\\ContactApp\\ContactApp.csproj",
-      "projectName": "ContactApp",
-      "projectPath": "E:\\CSharpProjects\\BasicContactApp_C#\\ContactApp\\ContactApp\\ContactApp.csproj",
+      "projectUniqueName": "E:\\CSharpProjects\\BasicContactApp_C#\\ContactApp\\ContactFunctionsLibrary\\ContactFunctionsLibrary.csproj",
+      "projectName": "ContactFunctionsLibrary",
+      "projectPath": "E:\\CSharpProjects\\BasicContactApp_C#\\ContactApp\\ContactFunctionsLibrary\\ContactFunctionsLibrary.csproj",
       "packagesPath": "C:\\Users\\FA506QM\\.nuget\\packages\\",
-      "outputPath": "E:\\CSharpProjects\\BasicContactApp_C#\\ContactApp\\ContactApp\\obj\\",
+      "outputPath": "E:\\CSharpProjects\\BasicContactApp_C#\\ContactApp\\ContactFunctionsLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FA506QM\\AppData\\Roaming\\NuGet\\NuGet.Config",
